@@ -3,3 +3,4 @@ data
 *.keras
 *.txt
 __pycache__/
+*.csv
