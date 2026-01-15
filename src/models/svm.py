@@ -1,4 +1,3 @@
-# src/models/svm_baseline.py
 from __future__ import annotations
 
 from sklearn.svm import LinearSVC
