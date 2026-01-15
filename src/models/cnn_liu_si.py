@@ -1,4 +1,3 @@
-# src/models/cnn_liu_si.py
 from __future__ import annotations
 
 from tensorflow.keras import layers, Model
