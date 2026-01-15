@@ -1,4 +1,3 @@
-# src/models/lstm_baseline.py
 from __future__ import annotations
 
 from tensorflow.keras import Sequential
